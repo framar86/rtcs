@@ -3,4 +3,4 @@
 
 .idea/
 
-custom_components/webrtc/__pycache__/
+custom_components/rtc/__pycache__/
